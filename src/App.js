@@ -16,6 +16,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React Counter</h1>
+	<p>Hello World v2</p>
       </header>
       <div className="counter-container">
         <div className="count">{count}</div>
