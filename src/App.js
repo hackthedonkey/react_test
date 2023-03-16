@@ -15,8 +15,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>React Counter</h1>
-	<p>Hello World v2</p>
+        <h1>React Counter Ver.1</h1>
       </header>
       <div className="counter-container">
         <div className="count">{count}</div>
